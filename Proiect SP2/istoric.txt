@@ -1,0 +1,13 @@
+Rus Razvan a primit nota 3 in locul notei 10 la materia Matematica;
+Rus Razvan are 10 prezente la materia Matematica;
+Posdarescu Mihai a primit nota 10 in locul notei 5 la materia Matematica;
+Rus Razvan a primit nota 9 la materia Matematica;
+Rus Razvan a primit nota 8 la materia Matematica;
+Rus Razvan a primit nota 5 la materia Matematica;
+Rus Razvan a primit nota 4 in locul notei 5 la materia Matematica;
+Rus Razvan are 7 prezente la materia Matematica;
+Uiu Ana a primit nota 8 la materia ASD;
+Uiu Ana a primit nota 4 la materia ASD;
+Uiu Ana a primit nota 3 in locul notei 4 la materia ASD;
+Uiu Ana are 6 prezente la materia ASD;
+Arsanu Raul a primit nota 5 la materia Matematica;

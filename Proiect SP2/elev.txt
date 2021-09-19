@@ -1,0 +1,12 @@
+Andrei;Luca;223491;Username2;parola2;Informatica;0;2;0;0;3.488;Matematica;0;6;9;8;7.66667;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Uiu;Ana;423929;Username3;parola3;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;8;3;0;3.66667;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Elev2;Prenume2;423929;Username4;parola5;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Posdarescu;Mihai;143421;mihaiposdarescu01;parola999;Informatica;0;0;0;0;0;Matematica;10;4;10;5;6.33333;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Rus;Razvan;223491;rusrazvan01;parola111;Informatica;0;0;0;0;0;Matematica;0;9;8;4;7;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Popescu;Andrei;223491;popescuandrei01;parola444;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Kana;Dan;223491;Dankana01;parola098;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Pop;Antonio;223491;antonianton01;altaparola;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Nicoae;Andrei;223491;nicuandrei01;parola1234;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Mateius;Matei;143421;mateimatei;parola1234;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Nichita;Stan;223491;nichitastan;paroladvs;Informatica;0;0;0;0;0;Matematica;0;0;0;0;0;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;
+Arsanu;Raul;423929;arsanuraul;parola123;Informatica;0;0;0;0;0;Matematica;0;5;0;0;1.66667;ASD;0;0;0;0;0;SP;0;0;0;0;0;Programare;0;0;0;0;0;

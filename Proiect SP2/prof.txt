@@ -1,0 +1,6 @@
+Adrian;Craciun;99999;adriancraciun;parola9999;Matematica;
+Alexandru;Alexei;99999;alexandrualexei;parola111;SP;
+ion;ioon;22222;ionioon;parola12;SP;
+Popescuu;Dan;14256;popdan;parola123;Informatica;
+Codrea;Alexandru;12757;codreaalex;parolamea;Matematica;
+Ionescu;Lucian;10010;ionesculucian;parolamea2;ASD;
